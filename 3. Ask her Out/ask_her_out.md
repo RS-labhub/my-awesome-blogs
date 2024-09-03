@@ -70,7 +70,9 @@ Here you can find Farukh's repo, forked by the original repo: https://github.com
 ## Thanks for reading till here...
 You are great! This shows how much you love me! In return, I just want to say you
 ![thank you](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bjd7qlehcfjnr0ozbixe.gif)
+
 Thanks for your time. As the project is OS, do customizations, add your version of "**ask her out**" website, and comment down the link. Never forget, that you're a developer. So show your love in developer mode itself! All the best!!!!!
+
 Again, here's the live server link: https://rs-labhub.github.io/ask-her-out/ and the project source code link: https://github.com/RS-labhub/ask-her-out. Visit it once if still not visited! Take care, have a good and loving day all! 💞
 
 {% cta https://github.com/RS-labhub/ask-her-out %} Star the Repo ⭐ {% endcta %}
