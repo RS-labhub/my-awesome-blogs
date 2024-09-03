@@ -62,7 +62,9 @@ So, there's a guy named Farukh who used my project, Customized it, and proposed 
 <figcaption> Customization by Farukh! </figcaption>
 &nbsp;
 Here you can find Farukh's repo, forked by the original repo: https://github.com/farukh1991/I-Love-You
+
 &nbsp;
+
 ## Thanks for reading till here...
 You are great! This shows how much you love me! In return, I just want to say you
 ![thank you](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bjd7qlehcfjnr0ozbixe.gif)
