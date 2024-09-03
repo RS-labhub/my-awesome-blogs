@@ -1,3 +1,5 @@
+# Quira: Monetise your Open-Source work 💸
+
 ![Quira cover Image](og.png)
 
 Tik tok... Knock knock... Who's on the door? It's **Quira**. 🚀
